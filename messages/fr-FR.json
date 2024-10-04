@@ -1,0 +1,15 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+
+  "home": "accueil",
+
+  "learn": "apprendre",
+  "fix": "réparer",
+  "about": "à propos",
+
+  "tools": "outils",
+
+  "footerGitlab": "Accéder au projet Gitlab du projet",
+  "footerLanguageSelect": "Langue actuelle : {lang}",
+  "footerLove": "Amour"
+}

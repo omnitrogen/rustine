@@ -11,14 +11,10 @@
         },
         {
           "name": "client",
-          "commands": ["cd web ; pnpm run dev"]
+          "commands": ["pnpm run dev"]
         },
         {
-          "name": "format",
-          "commands": ["cd web"]
-        },
-        {
-          "name": "git",
+          "name": "format & git",
           "commands": [""]
         }
       ]

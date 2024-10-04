@@ -1,0 +1,8 @@
+body {
+  margin-bottom: 1rem;
+  overflow-y: scroll;
+}
+
+.lucide * {
+  vector-effect: non-scaling-stroke;
+}

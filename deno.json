@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "unstable": ["fmt-component"]
+  },
+  "tasks": {
+    "devvv": "deno run --allow-all --unstable --node-modules-dir npm:vite dev"
+  }
+}
